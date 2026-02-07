@@ -1,6 +1,6 @@
 # SQL-netflix-analysis
 netflix movies and tv series analysis
-This project focuses on cleaning, normalizing, and analyzing Netflix content data using SQL.
+This project focuses on cleaning, normalizing, and analyzing Netflix content data using SQL
 The goal is to transform raw Netflix data into an analysis-ready relational model and answer real-world business questions using advanced SQL concepts like CTEs, window functions, string processing, and joins.
 
 Data Cleaning & Preparation
